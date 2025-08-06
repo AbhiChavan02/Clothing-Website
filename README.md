@@ -13,7 +13,7 @@ A full-stack clothing e-commerce platform built with **React.js**, **Tailwind CS
 - ⚙️ Admin Panel for Product Management
 - 🌐 Fully Responsive (Mobile + Desktop)
 - 📦 RESTful APIs (Node.js + Express)
-- 🔐 Authentication (JWT based)
+- 🔐 Authentications (JWT based)
 - 🧩 MongoDB integration using Mongoose
 
 ---
