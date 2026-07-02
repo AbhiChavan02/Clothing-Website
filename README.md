@@ -1,6 +1,6 @@
 # 🛍️ Clothing E-Commerce Website
 
-A full-stack clothing e-commerce platform built with **React.js**, **Tailwind CSS**, **Node.js (Express)**, and **MongoDB (Mongoose)**. The application supports user authentication, product management, and cart functionalities with a clean and responsive UI.
+A full-stack clothing e-commerce platform built with **React.js**, **Tailwind CSS**, **Node.js (Express)**, and **MongoDB (Mongoose)**. The application supports user authentication, product management, and cart functionalities with a clean and responsive UI..
 
 ---
 
